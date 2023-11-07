@@ -25,5 +25,5 @@
 |            카프카             | 사내 서비스 ActiveMQ &rarr; Kafka 전환                 | [flataex/kafka-study](https://github.com/flataex/kafka-study)                   |
 | kotlin spring boot 토이 프로젝트 | 사내 서비스 java spring &rarr; kotlin spring boot 전환 | [flataex/instagram-by-kotlin](https://github.com/flataex/instagram-by-kotlin)   |
 |            msa             | 사내 서비스 monolithc &rarr; soa &rarr; msa 점진적 전환   | [flataex/microservice-study](https://github.com/flataex/microservice-study)     |
-|            sqlp            | 부족한 DB 기본기를 키우기 위함 & 자격증이라는 명확한 목표 있는 공부        | [flataex/sqlp-study](https://github.com/flataex/sqlp-study)                     |
+|            sqlp            | 부족한 DB 기본기 향상 & 자격증이라는 명확한 목표 있는 공부             | [flataex/sqlp-study](https://github.com/flataex/sqlp-study)                     |
 |         헥사고날 아키텍쳐          | 사내 서비스 ActiveMQ &rarr; Kafka 전환                 | [flataex/hexagonal-study](https://github.com/flataex/hexagonal-study)           |
