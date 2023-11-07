@@ -13,3 +13,17 @@
 
 - production 환경에 적용 가능한 수준으로 실력 향상
 - 팀 내 공유와 팀원의 질문에 답변 가능한 수준으로 실력 향상
+
+## 스터디 목록
+
+|             주제             | 목적                                              | github repository                                                               | 
+|:--------------------------:|:------------------------------------------------|:--------------------------------------------------------------------------------|
+|            알고리즘            | 알고리즘 문제 해결을 통한 문제 해결 능력 향상 및 자료 구조 선정 능력 향상     | [ark-of-noah/algorithm](https://github.com/ark-of-noah/algorithm)               |
+|             도커             | 사내 서비스 도입                                       | [flataex/docker-study](https://github.com/flataex/docker-study)                 |
+|            http            | web/app application을 개발하지만 부족한 http 기본기 향상      | [hufs-study/http-study](https://github.com/hufs-study/http-study)               |
+|  java &rarr; kotlin 리팩토링   | 사내 서비스 java spring &rarr; kotlin spring boot 전환 | [flataex/java-to-kotlin-study](https://github.com/flataex/java-to-kotlin-study) |
+|            카프카             | 사내 서비스 ActiveMQ &rarr; Kafka 전환                 | [flataex/kafka-study](https://github.com/flataex/kafka-study)                   |
+| kotlin spring boot 토이 프로젝트 | 사내 서비스 java spring &rarr; kotlin spring boot 전환 | [flataex/instagram-by-kotlin](https://github.com/flataex/instagram-by-kotlin)   |
+|            msa             | 사내 서비스 monolithc &rarr; soa &rarr; msa 점진적 전환   | [flataex/microservice-study](https://github.com/flataex/microservice-study)     |
+|            sqlp            | 부족한 DB 기본기를 키우기 위함 & 자격증이라는 명확한 목표 있는 공부        | [flataex/sqlp-study](https://github.com/flataex/sqlp-study)                     |
+|         헥사고날 아키텍쳐          | 사내 서비스 ActiveMQ &rarr; Kafka 전환                 | [flataex/hexagonal-study](https://github.com/flataex/hexagonal-study)           |
